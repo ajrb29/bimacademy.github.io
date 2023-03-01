@@ -1,0 +1,2 @@
+# bimacademy.github.io
+.uz
